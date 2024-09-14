@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4684495 */
+  src: url('/css/font/iconfont.eot?t=1726271520143'); /* IE9 */
+  src: url('/css/font/iconfont.eot?t=1726271520143#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/css/font/iconfont.woff2?t=1726271520143') format('woff2'),
+       url('/css/font/iconfont.woff?t=1726271520143') format('woff'),
+       url('/css/font/iconfont.ttf?t=1726271520143') format('truetype'),
+       url('/css/font/iconfont.svg?t=1726271520143#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  display: inline-block;
+  font-size: 20px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons8-final-fantasy-xiv:before {
+  content: "\e601";
+}
+
+
